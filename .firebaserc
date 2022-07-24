@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "registration-form-3ec6b": {
+      "hosting": {
+        "registration-form": [
+          "registration-form-3ec6b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "registration-form-3ec6b"
+  }
+}
